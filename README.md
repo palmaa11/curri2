@@ -1,1 +1,3 @@
-# curri2
+Soc l'Aleix Palmada, estudiant d'enginyeria informàtica de l'universitat de Girona. En aquest cas se'ns ha demanat fer un curriculum en html i css, el meu treball consta del seguent:
+
+Primerament, sobre l'informació que conté el curriculum, he optat separar-la en dos parts. En la part de la dreta podem veure com parlo més sobre mi i sobre els estudis i feines que he dut a terme fins el moment. Per contra, en la part esquerre, deixo a veure en major part les meves capacitats i competències que he après i que em podrien ajudar de cara a una possible feina. També cal destacar la foto frontal que hi ha en la part superior del curriculum. L'he posat de manera circular perquè es vegi més professional i millor.
